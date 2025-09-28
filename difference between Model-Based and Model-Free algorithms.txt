@@ -1,0 +1,4 @@
+Model-Based algorithms learn a model of the environment (how actions lead to states and rewards) and plan using it. Model-Free algorithms learn directly from experience by trying actions and updating values, without modeling the environment.
+
+Model-Based = plan using a model
+Model-Free = learn by trial and error
